@@ -61,8 +61,7 @@ section p img {
     width: 100%;
 }
 .bookmark:hover{
-    background-color: red;
-
+    background-color: #e74c3c;
 }
 a{
     text-decoration: none;
