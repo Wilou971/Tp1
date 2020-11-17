@@ -60,3 +60,6 @@ section p img {
     display: block;
     width: 100%;
 }
+.bookmark:hover{
+    background-color: #822222;
+}
